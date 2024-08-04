@@ -47,6 +47,14 @@
  * ================
  */
 
+.text-blue {
+	color: #8115ff;
+}
+
+.text-pink {
+	color: #ff2ad0;
+}
+
 .sk__master-curtain {
 	position: fixed;
 	width: 100vw;
